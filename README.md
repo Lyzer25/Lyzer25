@@ -42,6 +42,14 @@ current_projects:
   - Firmware reverse engineering for control boards
 ```
 
+The issue was that the YAML code block needs to be on its own lines with proper backtick formatting. Make sure when you paste this into your README.md that:
+
+1. The \`\`\`yaml is on its own line
+2. The closing \`\`\` is on its own line
+3. There are no extra spaces before the backticks
+
+This should now render as a nice styled code block with YAML syntax highlighting, giving that professional "code-like" appearance to your about section!
+
 <h2> 🚀 &nbsp;Tech Stack & Tools</h2>
 
 <h3>Mining & Hardware</h3>
