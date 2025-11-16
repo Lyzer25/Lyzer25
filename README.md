@@ -50,7 +50,7 @@
 ### Mining & Hardware
 <p align="left">
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="bitcoin"/>
-<img src="https://img.shields.io/badge/ASIC_Mining-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="asic"/>
+<img src="https://img.shields.io/badge/ASIC_Mining-FF6600?style=for-the-badge" alt="asic"/>
 <img src="https://img.shields.io/badge/Bitmain_Antminer-0052CC?style=for-the-badge" alt="antminer"/>
 <img src="https://img.shields.io/badge/Firmware_Development-4B275F?style=for-the-badge" alt="firmware"/>
 </p>
@@ -87,6 +87,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-21-brightgreen?style=for-the-badge" alt="repos"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-11-blue?style=for-the-badge" alt="public"/>
+  <img src="https://img.shields.io/badge/Private%20Repos-10-red?style=for-the-badge" alt="private"/>
+</p>
+
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
@@ -106,6 +112,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
+
+## 📂 Featured Projects
+
+- **[barr-portfolio](https://v0-barr-portfolio.vercel.app)** - Personal portfolio website (TypeScript)
+- **[BarrAutomation](https://v0-barri.vercel.app)** - Automation platform (TypeScript) 
+- **[Morning-Voyage-Final](https://v0-morning-voyage.vercel.app)** - E-commerce coffee platform (TypeScript)
+- **[RingMaster](https://ring-master.vercel.app)** - Master key design system (JavaScript)
+- **[btc-miner-pro](https://github.com/Lyzer25/btc-miner-pro)** - Bitcoin mining tools (C++)
+- **[asic_detector](https://github.com/Lyzer25/asic_detector)** - ASIC hardware detection (Python)
 
 ---
 
