@@ -17,7 +17,7 @@
 
 ---
 
-<h2> 👨‍💻 &nbsp;About Me</h2>
+## 👨‍💻 About Me
 
 **Name:** Barr  
 **Role:** Datacenter Technician Field Lead @ Advanced Crypto Services  
@@ -45,9 +45,9 @@
 - CSV data consolidation for MAC addresses & error codes
 - Firmware reverse engineering for control boards
 
-<h2> 🚀 &nbsp;Tech Stack & Tools</h2>
+## 🚀 Tech Stack & Tools
 
-<h3>Mining & Hardware</h3>
+### Mining & Hardware
 <p align="left">
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="bitcoin"/>
 <img src="https://img.shields.io/badge/ASIC_Mining-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="asic"/>
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Firmware_Development-4B275F?style=for-the-badge" alt="firmware"/>
 </p>
 
-<h3>Development</h3>
+### Development
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
@@ -65,7 +65,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 </p>
 
-<h3>Tools & Automation</h3>
+### Tools & Automation
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
@@ -75,7 +75,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
 </p>
 
-<h3>Data & Analytics</h3>
+### Data & Analytics
 <p align="left">
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="sheets"/>
 <img src="https://img.shields.io/badge/CSV_Processing-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="csv"/>
@@ -84,56 +84,39 @@
 
 ---
 
-<h2> 📊 &nbsp;GitHub Stats</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
 </p>
 
----
-
-<h2> 📈 &nbsp;Contribution Activity</h2>
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=true&area=true&area_color=1f77b4" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=true&area=true" alt="activity"/>
 </p>
 
----
-
-<h2> 🏆 &nbsp;GitHub Trophies</h2>
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-<h2> 💻 &nbsp;Detailed Analytics</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Lyzer25&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lyzer25&theme=tokyonight" alt="productive time"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyzer25&theme=tokyonight" alt="profile details"/>
-</p>
-
----
-
-<h2> 🤝 &nbsp;Let's Connect!</h2>
+## 🤝 Let's Connect!
 
 <p align="center">
   <i>Open to collaborating on mining optimization projects, automation tools, and full-stack applications!</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lyzer25&color=brightgreen&style=flat-square&label=Profile+Views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lyzer25&label=Profile%20Views&color=brightgreen&style=flat" alt="watching_count" />
 </p>
 
 <p align="center">
