@@ -88,39 +88,36 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repos-21-brightgreen?style=for-the-badge" alt="repos"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-11-blue?style=for-the-badge" alt="public"/>
-  <img src="https://img.shields.io/badge/Private%20Repos-10-red?style=for-the-badge" alt="private"/>
+  <img src="https://img.shields.io/badge/Languages-TypeScript%20|%20Python%20|%20C++-blue?style=for-the-badge" alt="languages"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Lyzer25&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
 </p>
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=true&area=true" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="activity"/>
 </p>
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&no-frame=false&row=1&column=7" />
 </p>
 
 ## 📂 Featured Projects
 
-- **[barr-portfolio](https://v0-barr-portfolio.vercel.app)** - Personal portfolio website (TypeScript)
-- **[BarrAutomation](https://v0-barri.vercel.app)** - Automation platform (TypeScript) 
-- **[Morning-Voyage-Final](https://v0-morning-voyage.vercel.app)** - E-commerce coffee platform (TypeScript)
-- **[RingMaster](https://ring-master.vercel.app)** - Master key design system (JavaScript)
-- **[btc-miner-pro](https://github.com/Lyzer25/btc-miner-pro)** - Bitcoin mining tools (C++)
-- **[asic_detector](https://github.com/Lyzer25/asic_detector)** - ASIC hardware detection (Python)
+[![barr-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Lyzer25&repo=barr-portfolio&theme=tokyonight)](https://github.com/Lyzer25/barr-portfolio)
+[![BarrAutomation](https://github-readme-stats.vercel.app/api/pin/?username=Lyzer25&repo=BarrAutomation&theme=tokyonight)](https://github.com/Lyzer25/BarrAutomation)
+[![btc-miner-pro](https://github-readme-stats.vercel.app/api/pin/?username=Lyzer25&repo=btc-miner-pro&theme=tokyonight)](https://github.com/Lyzer25/btc-miner-pro)
+[![asic_detector](https://github-readme-stats.vercel.app/api/pin/?username=Lyzer25&repo=asic_detector&theme=tokyonight)](https://github.com/Lyzer25/asic_detector)
 
 ---
 
