@@ -44,6 +44,7 @@
 - Mining hardware diagnostic formulas for Google Sheets
 - CSV data consolidation for MAC addresses & error codes
 - Firmware reverse engineering for control boards
+
 <h2> 🚀 &nbsp;Tech Stack & Tools</h2>
 
 <h3>Mining & Hardware</h3>
@@ -87,20 +88,49 @@
 
 <p align="center">
 <a href="https://github.com/Lyzer25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight&hide_border=false" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=false&height=250" alt="activity graph"/>
 </p>
 
 ---
 
-<h2> 🐍 &nbsp;Contribution Graph</h2>
+<h2> 🏆 &nbsp;GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github.com/Lyzer25/Lyzer25/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<h2> 🐍 &nbsp;Contribution Snake</h2>
+<p align="center">
+  <img src="https://github.com/Lyzer25/Lyzer25/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+---
+
+<h2> 📈 &nbsp;More Stats</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyzer25&theme=tokyonight" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lyzer25&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lyzer25&theme=tokyonight" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lyzer25&color=brightgreen&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
