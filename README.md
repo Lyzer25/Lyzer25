@@ -84,21 +84,23 @@
 
 ---
 
-<h2> 📊 &nbsp;GitHub Analytics</h2>
+<h2> 📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-<a href="https://github.com/Lyzer25">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lyzer25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lyzer25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight&hide_border=false" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyzer25&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
+---
+
+<h2> 📈 &nbsp;Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=false&height=250" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzer25&theme=tokyo-night&hide_border=true&area=true&area_color=1f77b4" alt="contribution graph"/>
 </p>
 
 ---
@@ -106,31 +108,20 @@
 <h2> 🏆 &nbsp;GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lyzer25&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-<h2> 🐍 &nbsp;Contribution Snake</h2>
+<h2> 💻 &nbsp;Detailed Analytics</h2>
+
 <p align="center">
-  <img src="https://github.com/Lyzer25/Lyzer25/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Lyzer25&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lyzer25&theme=tokyonight" alt="productive time"/>
 </p>
-
----
-
-<h2> 📈 &nbsp;More Stats</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyzer25&theme=tokyonight" alt="profile details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lyzer25&theme=tokyonight" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lyzer25&theme=tokyonight" alt="most commit language"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lyzer25&color=brightgreen&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
@@ -139,6 +130,10 @@
 
 <p align="center">
   <i>Open to collaborating on mining optimization projects, automation tools, and full-stack applications!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lyzer25&color=brightgreen&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
 <p align="center">
