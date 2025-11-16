@@ -18,38 +18,32 @@
 ---
 
 <h2> 👨‍💻 &nbsp;About Me</h2>
-```yaml
-name: Barr
-role: Datacenter Technician Field Lead @ Advanced Crypto Services
-focus: Bitcoin Mining Operations & ASIC Hardware Management
-specialties:
-  - Custom firmware development for Bitmain Antminers
-  - Large-scale mining facility automation (1000s of miners)
-  - Diagnostic tools & data processing workflows
-  - Hardware performance optimization
-  - Fullstack Stores
-  - AI Automations
-  - AI Automation Design
-achievements:
-  - 1st Place - Bataan Death March Marathon (2017)
-interests: 
-  - Strategy games & puzzle solving
-  - IoT development with ESP-32
-  - Full-stack development
-current_projects:
-  - Mining hardware diagnostic formulas for Google Sheets
-  - CSV data consolidation for MAC addresses & error codes
-  - Firmware reverse engineering for control boards
-```
 
-The issue was that the YAML code block needs to be on its own lines with proper backtick formatting. Make sure when you paste this into your README.md that:
+**Name:** Barr  
+**Role:** Datacenter Technician Field Lead @ Advanced Crypto Services  
+**Focus:** Bitcoin Mining Operations & ASIC Hardware Management  
 
-1. The \`\`\`yaml is on its own line
-2. The closing \`\`\` is on its own line
-3. There are no extra spaces before the backticks
+### 🛠️ Specialties
+- Custom firmware development for Bitmain Antminers
+- Large-scale mining facility automation (1000s of miners)
+- Diagnostic tools & data processing workflows
+- Hardware performance optimization
+- Fullstack Stores
+- AI Automations
+- AI Automation Design
 
-This should now render as a nice styled code block with YAML syntax highlighting, giving that professional "code-like" appearance to your about section!
+### 🏆 Achievements
+- 🥇 1st Place - Bataan Death March Marathon (2017)
 
+### 💡 Interests
+- Strategy games & puzzle solving
+- IoT development with ESP-32
+- Full-stack development
+
+### 🔧 Current Projects
+- Mining hardware diagnostic formulas for Google Sheets
+- CSV data consolidation for MAC addresses & error codes
+- Firmware reverse engineering for control boards
 <h2> 🚀 &nbsp;Tech Stack & Tools</h2>
 
 <h3>Mining & Hardware</h3>
